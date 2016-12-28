@@ -1,0 +1,15 @@
+box: debian
+build:
+  steps:
+    - arjen/hugo-build:
+      version: "0.17"
+
+deploy:
+  steps:
+    - install-packages:
+      packages: git ssh-client
+    - lukevivier/gh-pages:
+      token: $GITHUB_TOKEN
+      repo: kyuwabara/kyuwabara.github.io
+      basedir: public
+
