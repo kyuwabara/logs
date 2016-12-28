@@ -1,0 +1,5 @@
+languageCode = "en-us"
+title = "my logs"
+baseurl = "http://kyuwabara.github.io/logs"
+canotifyurls = true
+author = "kyuwabara"
