@@ -1,5 +1,6 @@
-languageCode = "en-us"
+languageCode = "ja"
 title = "my logs"
 baseurl = "http://kyuwabara.github.io/logs"
 canotifyurls = true
 author = "kyuwabara"
+theme = "material-design"
