@@ -1,5 +1,5 @@
 languageCode = "en-us"
 title = "my logs"
-baseurl = "http://kyuwabara.github.io/logs"
+baseurl = "https://kyuwabara.github.io/logs"
 canotifyurls = true
 author = "kyuwabara"
