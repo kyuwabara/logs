@@ -4,3 +4,6 @@ baseurl = "http://kyuwabara.github.io/logs"
 canotifyurls = true
 author = "kyuwabara"
 theme = "material-design"
+
+[params]
+dateformat = "2006-01-02"
